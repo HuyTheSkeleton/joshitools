@@ -117,7 +117,7 @@
                     "settings": [
                         {
                             "name": "AutoAcquireTarget",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "CameraMode",
@@ -137,7 +137,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "16.12.788.4269"
+                            "value": "16.13.789.3741"
                         },
                         {
                             "name": "CursorOverride",
@@ -1220,7 +1220,7 @@
                         },
                         {
                             "name": "evtShowCharacterMenu",
-                            "value": "[n]"
+                            "value": "[n], [z]"
                         },
                         {
                             "name": "evtShowCharacterMenuSpectator",
