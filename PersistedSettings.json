@@ -145,7 +145,7 @@
                         },
                         {
                             "name": "CursorScale",
-                            "value": "0.4800"
+                            "value": "0.2600"
                         },
                         {
                             "name": "DashHandlingType",
@@ -495,7 +495,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -507,11 +507,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1510"
+                            "value": "0.1568"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1204"
+                            "value": "-0.1194"
                         }
                     ]
                 },
@@ -610,7 +610,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.5700"
+                            "value": "0.4900"
                         },
                         {
                             "name": "MusicMute",
