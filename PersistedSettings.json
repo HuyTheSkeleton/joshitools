@@ -137,7 +137,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "16.13.789.3741"
+                            "value": "16.14.794.5912"
                         },
                         {
                             "name": "CursorOverride",
@@ -181,7 +181,7 @@
                         },
                         {
                             "name": "GameMouseSpeed",
-                            "value": "2"
+                            "value": "6"
                         },
                         {
                             "name": "OSXMouseAcceleration",
@@ -507,11 +507,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.1568"
+                            "value": "0.1526"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "-0.1194"
+                            "value": "-0.1241"
                         }
                     ]
                 },
@@ -1220,7 +1220,7 @@
                         },
                         {
                             "name": "evtShowCharacterMenu",
-                            "value": "[n], [z]"
+                            "value": "[n],[z]"
                         },
                         {
                             "name": "evtShowCharacterMenuSpectator",
